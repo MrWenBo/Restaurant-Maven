@@ -38,6 +38,7 @@ public class NoodlesServlet extends HttpServlet {
        // log.debug("This is debug message.");  
         // 记录info级别的信息  
         log.info(" Noodles with " + vegetable);  
+        system.out.println("I love this word")
         // 记录error级别的信息  
        // log.error("This is error message.");  
         		
